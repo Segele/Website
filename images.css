@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(65, 164, 206);
+}
+#navbar{
+ text-align: center;
+ padding: 24px;
+}
+#header{
+    padding-top: 100px;
+    color: darkblue;
+} 
+.nav-bar{
+    padding: 12px;
+     margin-left: 100px;
+    font-size: 24px;
+    color: blue;
+    text-decoration:none;
+}
+.image-item{
+    width: 450px;
+    height: 250px;
+}

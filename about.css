@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+#head{
+    padding-top: 50px;
+    text-align: center
+    ;
+
+}
+.nav-bar{
+    padding: 12px;
+     margin-left: 100px;
+    font-size: 24px;
+    color: blue;
+    text-decoration:none;
+}
+.letter{
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    line-height: 1.fr;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+#navbar{
+    text-align: center;
+    padding: 24px;
+}
